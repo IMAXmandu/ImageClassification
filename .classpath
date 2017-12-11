@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/darkn/Desktop/Project/Oxygen/Workspace/ImageClassfication/jar/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darkn/Desktop/Project/Oxygen/Workspace/ImageClassfication/jar/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darkn/Desktop/Project/Oxygen/Workspace/ImageClassfication/jar/opencv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darkn/Desktop/Project/Oxygen/Workspace/ImageClassfication/jar/opencv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darkn/Desktop/Project/Oxygen/Workspace/ImageClassfication/jar/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
