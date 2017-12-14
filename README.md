@@ -1,4 +1,5 @@
 # Image Clasification
+[![Build Status](https://travis-ci.org/IMAXmandu/ImageClassification.svg?branch=master)](https://travis-ci.org/IMAXmandu/ImageClassification)
 
 This program enables you to distinguish the images of **Rain, Mountain, Sea, and Face** among randomly scrambled images.
 
@@ -21,11 +22,7 @@ To build this project, you will first need to download and install the following
  * An implementation of Java SE 7 or newer:
   http://www.oracle.com/technetwork/java/javase/downloads/
 
-##### You can build as follows
-1. Import `jar files` in jar to your project
-2. Run.
-
-##### You can run this program also as follows
+##### You can run this program as follows
 1. Download `runnable jar file` in bin
 2. Run command prompt
 3. Typing this. `java -jar .\ImageClassification.jar`
